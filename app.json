@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "genesis",
+    "slug": "genesis",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1F1F1E"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#1F1F1E"
+      },
+      "package": "com.samucamica.genesis",
+      "enableHermes": true,
+      "permissions": [
+        "INTERNET"
+      ]
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "636565a5-5456-4410-94cb-56b30ec8f724"
+      }
+    }
+  }
+}
