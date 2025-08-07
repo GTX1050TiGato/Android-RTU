@@ -2,4 +2,4 @@ RTU é um aplicativo de gerenciamento do fluxo de pessoas em ambientes, como aca
 
 dependendo de apenas uma catraca para funcionar
 
-[home](HOME.png)
+[print](HOME.png)
